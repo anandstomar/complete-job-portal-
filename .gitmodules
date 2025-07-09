@@ -1,0 +1,3 @@
+[submodule "new/concise-resume-craft-ai"]
+	path = new/concise-resume-craft-ai
+	url = https://github.com/anandstomar/concise-resume-craft-ai.git
